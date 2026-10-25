@@ -1,0 +1,111 @@
+{
+  "expo": {
+    "name": "ROLLCAM",
+    "slug": "rollcam",
+    "version": "0.7.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.deblockx.rollcam",
+      "buildNumber": "7"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0E0D0C",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.deblockx.rollcam",
+      "blockedPermissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACTIVITY_RECOGNITION"
+      ],
+      "versionCode": 25,
+      "allowBackup": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "하루 한 장을 찍으려면 카메라가 필요합니다.",
+          "microphonePermission": false,
+          "recordAudioAndroid": false
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "오늘의 필름을 고르려고 도시 단위 날씨만 확인합니다."
+        }
+      ],
+      "expo-sqlite",
+      "expo-sharing",
+      "expo-font",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#0E0D0C"
+        }
+      ],
+      "./plugins/withLauncher",
+      [
+        "react-native-android-widget",
+        {
+          "fonts": [
+            "./assets/fonts/RollcamSans-Regular.otf",
+            "./assets/fonts/RollcamSans-Bold.otf"
+          ],
+          "widgets": [
+            {
+              "name": "TodayRoll",
+              "label": "Today's roll",
+              "description": "Whether today's photo is taken, and which film loaded",
+              "minWidth": "250dp",
+              "minHeight": "110dp",
+              "targetCellWidth": 4,
+              "targetCellHeight": 2,
+              "resizeMode": "horizontal|vertical",
+              "updatePeriodMillis": 1800000
+            },
+            {
+              "name": "MonthRoll",
+              "label": "This month's roll",
+              "description": "This month's photo days as film-colored dots",
+              "minWidth": "110dp",
+              "minHeight": "110dp",
+              "targetCellWidth": 2,
+              "targetCellHeight": 2,
+              "resizeMode": "horizontal|vertical",
+              "updatePeriodMillis": 1800000
+            }
+          ]
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "extraProguardRules": "-keep class * extends androidx.room.RoomDatabase { <init>(); }\n-keep class androidx.work.impl.WorkDatabase_Impl { *; }"
+          }
+        }
+      ]
+    ],
+    "backgroundColor": "#0E0D0C",
+    "scheme": "rollcam"
+  }
+}

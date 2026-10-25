@@ -1,0 +1,6 @@
+{
+  "name": "rollcam-gallery",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Copies a developed print into the phone's Pictures/ROLLCAM album (MediaStore, Android 10+, no permission)"
+}

@@ -1,0 +1,100 @@
+{
+  "0.3.0": {
+    "ko-KR": "· 필름 색을 새로 만들었어요. 12종 필름마다 피부·초록·하늘 색이 다르게 나와요\n· 롤에서 사진을 크게 보고 좌우로 넘길 수 있어요. 그날 날씨도 함께 보여요\n· 달이 끝나면 지난달 롤이 현상돼 돌아와요\n· 설정에 생일을 넣으면 그날은 Party Flash 필름이 감겨요\n· 위치는 첫 사진을 찍은 뒤에 물어봐요\n· 롤 공유 이미지가 한글로 나와요\n· 알림이 두 번씩 오던 문제를 고쳤어요\n· 사진이 클라우드 자동 백업으로 복사되지 않게 했어요. 사진은 이 기기에만 있어요",
+    "en-US": "· New film colors: each of the 12 films renders skin, greens and skies its own way\n· Open any photo in your roll and swipe through the month, with that day's weather\n· At the end of the month your roll comes back from the lab\n· Add your birthday in Settings to get the Party Flash film that day\n· Location is now asked after your first photo\n· Fixed reminders arriving twice\n· Photos are no longer copied by Android auto backup; they stay on this device"
+  },
+  "0.3.1": {
+    "ko-KR": "· 내 롤에서 한 해 12달을 한 화면에 볼 수 있어요. 달 카드를 누르면 그 달로 가요\n· 가장 길게 이어 찍은 날 수가 달과 해를 넘어서도 이어져요",
+    "en-US": "· See all 12 months of a year on one screen in your roll; tap a month to open it\n· Your longest streak now carries across months and years"
+  },
+  "0.3.2": {
+    "ko-KR": "· 카메라 화면이 필름 카메라처럼 바뀌었어요. 오늘 날짜 번호, 지금 하늘, 이번 달 롤 칸이 보여요\n· 셔터를 누르면 막이 깜빡이고, 현상이 끝나면 오늘의 필름 이름이 한 글자씩 나타나요\n· 오늘 롤을 다 찍으면 새 필름까지 남은 시간이 초 단위로 흘러가요\n· 내 롤이 진짜 필름 네거티브처럼 보여요. 필름 가장자리 글씨와 칸 번호까지",
+    "en-US": "· The camera now feels like a film camera: frame number, today's sky and this month's roll at a glance\n· The shutter blinks, and once the print comes up, today's film name rolls in letter by letter\n· After today's shot, a live countdown shows when the next roll loads\n· Your roll looks like a real film negative, edge printing and frame numbers included"
+  },
+  "0.3.3": {
+    "ko-KR": "· 필름 도감이 생겼어요. 12종 필름 중 모은 필름과 아직 안 온 필름, 어떤 날 오는지까지 볼 수 있어요\n· 처음 들어온 필름이면 현상이 끝날 때 '새 필름'이 떠요\n· 오늘 인화를 누르면 뒤집혀요. 뒷면에 필름·시각·하늘·이유가 현상소 도장으로 찍혀 있어요\n· 1년 전 오늘, 한 달 전 오늘 찍은 사진이 오늘 사진 아래 돌아와요\n· 카메라 권한을 거부했어도 첫 화면에서 바로 설정을 열 수 있어요",
+    "en-US": "· New film book: see which of the 12 films you've collected, which are still to come, and what kind of day brings them\n· A film loading for the first time gets a 'new film' mark when the print comes up\n· Tap today's print to turn it over: the back carries a lab stamp with the film, time, sky and why it loaded\n· Photos from a year ago and a month ago today come back under today's print\n· If camera access was denied, the first screen now opens Settings directly"
+  },
+  "0.3.4": {
+    "ko-KR": "· 사진 공유가 인화지 한 장으로 나가요. 필름 이름, 날짜, 그날 날씨가 인화지 여백에 찍혀요\n· 인스타 스토리 크기(9:16)로도 공유할 수 있어요\n· 이번 달 롤 공유 이미지가 진짜 필름 스트립처럼 바뀌었어요\n· 내 롤에서 옆으로 밀어 지난 달로 넘어갈 수 있어요\n· 오늘 인화가 사진 비율에 맞춰져 검은 여백이 없어졌어요\n· 한 해 보기에서 빈 달은 빈 롤로 보여요\n· 밝은 하늘 아래서도 뷰파인더 글자가 잘 보여요",
+    "en-US": "· Sharing a photo now sends it as a print, with the film, the date and that day's weather on the paper\n· Share a photo in story size (9:16) too\n· The monthly roll image now looks like a real film strip\n· Swipe sideways in your roll to move between months\n· Today's print fits the photo's shape, no more black bars\n· Empty months show as unexposed rolls in the year view\n· Viewfinder readouts stay legible against a bright sky"
+  },
+  "0.3.5": {
+    "ko-KR": "· 홈 화면 위젯이 생겼어요. 오늘 찍은 인화와 필름이 보이고, 아직 안 찍은 날엔 빈 칸으로 기다려요. 누르면 바로 카메라로\n· 오늘 롤이 감긴 뒤엔 내일 아침·한낮·해 질 녘·밤에 어떤 필름이 들어올지 날씨 예보로 미리 보여 드려요. 도감에 없는 필름은 따로 표시돼요",
+    "en-US": "· New home screen widget: today's print and film, or an empty frame waiting for today's shot. Tap to open the camera\n· Once today's roll is wound, see which films tomorrow's forecast is likely to load in the morning, midday, at dusk and at night. Films missing from your book are marked"
+  },
+  "0.3.6": {
+    "ko-KR": "· 새 필름 First Snow: 그 겨울 첫눈이 오는 날에만 들어오는 시즌 한정 필름이에요. 도감 13번째 칸\n· 내일 예보에 도감에 없는 필름이 있으면 그 시각 전에 한 번 알려 드려요\n· 올해의 롤: 한 해 보기에서 12달 표지와 365일 필름 색, 올해 기록을 스토리 크기 한 장으로 공유할 수 있어요",
+    "en-US": "· New film, First Snow: a seasonal film that only loads on the first snowy day of the winter. Slot 13 in your film book\n· If tomorrow's forecast brings a film missing from your book, you get one heads-up before it\n· Your year in a roll: share twelve month covers, a dot for every day in its film's color and your year's records as one story-size image"
+  },
+  "0.3.7": {
+    "ko-KR": "· 셀카로도 찍을 수 있어요. 셔터 옆 버튼으로 앞뒤 카메라를 바꾸고, 다음 날에도 기억해요\n· 플래시: 끔·자동·켬. 셀카일 땐 화면이 밝게 비춰 줘요\n· 12월 중순부터 앱을 열면 '올해의 롤'이 한 번 도착해요. 12달 표지와 올해 기록을 보고 바로 공유할 수 있어요\n· 세로로 긴 사진도 인화지 여백이 넉넉하게 나와요",
+    "en-US": "· Take your one photo as a selfie too: switch cameras next to the shutter, remembered the next day\n· Flash: off, auto or on. Selfies get a bright screen flash\n· From mid-December your year arrives once as a card, with twelve month covers and your records, ready to share\n· Tall photos keep a proper paper border"
+  },
+  "0.3.8": {
+    "ko-KR": "· 오늘의 한 줄: 찍은 사진 아래 '✎ 오늘의 한 줄'을 눌러 그날을 한 줄로 남겨요. 자정이 지나면 인화와 함께 고정돼요\n· 한 줄은 인화지 뒷면, 사진 보기, 공유하는 인화지, 홈 화면 위젯에도 나와요. 내 롤 아래엔 '이 달의 한 줄'이 모이고, 스토리 한 장으로 공유할 수 있어요\n· 롤 가져오기: 내보낸 zip 으로 새 폰에 롤을 그대로 되돌릴 수 있어요. 이미 찍은 날은 지금 폰 사진이 남아요\n· 해 질 녘 알림: 설정에서 켜면 6시 대신 노을 전에 Golden Roll 이 곧 감긴다고 알려요",
+    "en-US": "· A line for the day: tap '✎' under today's print to keep one line with the photo. It sets at midnight\n· It shows on the print's back, the viewer, shared prints and the widget; the month's lines gather under your roll, shareable as one story\n· Restore your roll from an exported zip on a new phone. Days you already shot keep this phone's photo\n· Sunset heads-up: turn it on in Settings to hear before Golden Roll loads instead of at 6 pm"
+  },
+  "0.3.9": {
+    "ko-KR": "· 영어를 지원해요. 휴대폰 언어가 한국어가 아니면 앱이 영어로 나와요\n· 설정 > 언어에서 자동·한국어·English 중에 고를 수 있어요\n· 공유 이미지, 알림, 홈 화면 위젯도 같은 언어로 나와요. 예전에 찍은 사진의 필름 이유도 바뀐 언어로 보여요",
+    "en-US": "· ROLLCAM now speaks English: if your phone isn't set to Korean, the whole app is in English\n· Pick Auto, 한국어 or English in Settings > Language\n· Share images, reminders and the home screen widget follow the same language, and the reasons on photos you already took switch too"
+  },
+  "0.4.0": {
+    "ko-KR": "· 시즌 한정 필름 둘: 벚꽃 철 Spring Bloom, 단풍 철 Autumn Maple. 도감에서 남은 날을 세어 줘요\n· 1년 뒤의 나에게: 편지를 봉인하면 내년 오늘 열려요\n· 롤 재생과 롤 GIF 공유, 필름 컷·도감 공유, 작은 위젯 '이번 달 롤'\n· 뷰파인더 두 손가락 줌, 해 질 녘 빛이 다가오면 알려 줘요\n· 한 줄 모아 보기와 검색, 필름 도감 상세\n· 저녁 알림이 평소 찍는 시간에 맞춰지고, 연속 기록이 걸려 있으면 알려 줘요\n· 내 롤이 더 가볍고 빨라졌어요",
+    "en-US": "· Seasonal films: Spring Bloom and Autumn Maple, with a countdown in the film book\n· A note to next year: seal a letter, it opens on this date next year\n· Play your roll and share it as a GIF; share a 35mm frame or your film book; a small month widget\n· Pinch to zoom; the viewfinder tells you when sunset light is near\n· All your lines in one place, with search; a page for every film\n· The evening reminder follows when you usually shoot\n· A lighter, faster roll"
+  },
+  "0.4.1": {
+    "ko-KR": "· 공유 이미지에서 '똠', '뷁' 같은 드문 한글이 빠지던 문제를 고쳤어요. 이제 한글 11,172자를 모두 그려요\n· 내 롤에서 아래 탭 막대 뒤로 버튼이 겹쳐 보이던 것을 부드럽게 흐려지게 했어요\n· 위치를 끈 일본 사용자에게 서울 날씨로 필름이 골라지던 문제를 고쳤어요",
+    "en-US": "· Share images now draw every Korean character, so rare ones are no longer dropped\n· The roll fades out under the tab bar instead of buttons showing through it\n· With location off in Japan, the film no longer uses Seoul's weather"
+  },
+  "0.5.0": {
+    "ko-KR": "· 일본어를 지원해요. 휴대폰 언어가 일본어면 앱이 일본어로 나와요(설정 > 언어에서 바꿀 수 있어요)\n· 내보내기는 '저장했어요'를 눌러야 백업으로 기록돼요. 공유 창을 닫기만 해도 백업된 것처럼 보이던 문제를 고쳤어요\n· 롤을 가져온 새 폰에서 '내보낸 적 없어요' 경고가 바로 뜨던 문제, 줌이 튀던 문제 등을 고쳤어요",
+    "en-US": "· ROLLCAM now speaks Japanese too: it follows your phone, or pick it in Settings > Language\n· An export now counts as a backup only after you tap 'Saved', so closing the share sheet no longer looks like a backup\n· Fixed a restored phone warning 'never exported', zoom jumping mid-pinch and more",
+    "ja-JP": "· 日本語に対応しました。端末の言語が日本語ならアプリも日本語に(設定 > 言語で切り替えできます)\n· 書き出しは「保存しました」を押したときにバックアップとして記録されます\n· ロールを取り込んだ新しい端末ですぐ「書き出していません」と出る問題、ズームが跳ねる問題などを直しました"
+  },
+  "0.6.0": {
+    "ko-KR": "· 이번 주 필름 예보: 도감 위에 7일 동안 어떤 필름이 올지\n· 필름 도감에 견본 인화. 아직 못 모은 필름도 어떤 색인지 미리 봐요\n· 12달 표지 GIF, 한 줄 일기 텍스트로 내보내기\n· 날짜 도장 색(주황·빨강·노랑), 뷰파인더 구도 격자, 사진 보기 확대\n· 위젯에 내일 아침 필름\n· 작은 화면에서도 인화가 크게, 설정이 끝까지 스크롤\n· 일본어 오역 수정",
+    "en-US": "· This week's films: a 7-day forecast above the film book\n· Sample prints in the film book, even for films you haven't collected\n· 12-month cover GIF, export your lines as text\n· Date stamp colors, a viewfinder grid, zoom in the photo viewer\n· Tomorrow morning's film on the widget\n· Bigger prints on small screens, Settings scrolls to the end\n· Fixed Japanese wording",
+    "ja-JP": "· 今週のフィルム予報: 図鑑の上に7日分\n· フィルム図鑑に見本プリント。まだ集めていないフィルムの色も先に見られます\n· 12か月の表紙GIF、一行日記をテキストで書き出し\n· 日付スタンプの色、ファインダーのグリッド、写真の拡大\n· ウィジェットに明日の朝のフィルム\n· 小さな画面でもプリントを大きく、設定が最後までスクロール\n· 日本語の誤訳を修正"
+  },
+  "0.6.1": {
+    "ko-KR": "· 럭키 컷: 가끔 빛이 크게 새어 들어온 드문 한 장이 현상돼 나와요. 인화지 뒷면과 내 롤에 ✦ 표시, 도감에서 모은 수를 세요\n· 사진 확대와 이번 주 예보를 다듬었어요",
+    "en-US": "· Lucky frames: now and then a rare frame comes back with a big warm light leak, marked ✦ on the print and in your roll, and counted in the film book\n· Polished photo zoom and this week's forecast",
+    "ja-JP": "· ラッキーカット: ときどき光が大きく漏れ込んだめずらしい一枚が現像されます。プリントの裏とマイロールに✦、図鑑で枚数を数えます\n· 写真の拡大と今週の予報を調整しました"
+  },
+  "0.6.2": {
+    "ko-KR": "· 럭키 컷이 공유 이미지에도 표시돼요. 인화지엔 'LUCKY CUT', 필름 컷 가장자리 인쇄, 롤 스트립과 GIF 칸, 홈 화면 위젯에 ✦",
+    "en-US": "· Lucky frames now show in shares too: 'LUCKY CUT' on the print, on the film frame's edge printing, a ✦ in roll strips, GIFs and the home screen widget",
+    "ja-JP": "· ラッキーカットが共有画像にも表示されます。プリントに「LUCKY CUT」、フィルムコマの縁、ロールのストリップとGIF、ホーム画面ウィジェットに✦"
+  },
+  "0.6.3": {
+    "ko-KR": "· 새 필름 Moon Silver: 보름달 앞뒤 하루, 맑은 밤에만 Night Tungsten 대신 은빛 달빛 필름이 감겨요. 도감 16번째 칸\n· 위젯의 럭키 컷 ✦ 가 어느 폰에서나 보이게 했어요",
+    "en-US": "· New film, Moon Silver: on a clear night within a day of the full moon, silver moonlight loads instead of Night Tungsten. Slot 16 in your film book\n· The widget's lucky ✦ now shows on every phone",
+    "ja-JP": "· 新しいフィルム Moon Silver: 満月の前後1日の晴れた夜だけ、Night Tungsten の代わりに銀色の月明かりのフィルムが入ります。図鑑16番目\n· ウィジェットのラッキー✦がどの端末でも表示されるように"
+  },
+  "0.6.4": {
+    "ko-KR": "· 지난 사진도 인화지 뒷면을 볼 수 있고, 뒷면을 이미지로 공유할 수 있어요\n· 찍기 전에 1년 전 오늘 사진이 있으면 알려 주고, 보름달 밤엔 뷰파인더에 알려요\n· 이번 주 예보가 낮 12시 기준으로 더 정확해졌어요\n· 설정에 롤 크기(장수·용량), 큰 글씨에서도 버튼이 넘치지 않게",
+    "en-US": "· See the back of any past print, and share it as an image\n· Before you shoot: a heads-up when there's a photo from a year ago today, and on full-moon nights\n· This week's forecast now reads the midday sky\n· Roll size in Settings, buttons stay tidy with large text",
+    "ja-JP": "· 過去の写真もプリントの裏を見られ、裏を画像で共有できます\n· 撮る前に1年前の今日の写真があるとお知らせ、満月の夜はファインダーに表示\n· 今週の予報が昼12時の空で、より正確に\n· 設定にロールのサイズ、大きな文字でもボタンがはみ出さないように"
+  },
+  "0.6.5": {
+    "ko-KR": "· 올해의 온도: 한 해 보기와 올해의 롤 공유 이미지에 사진마다 그날 기온을 잇는 선, 가장 더웠던 날·추웠던 날\n· 저녁 알림 시각을 고를 수 있어요(자동·18·20·21시), 자정 전 한 번 더 알림(기본 끔)\n· 작은 위젯에서 럭키 컷 날은 금색 테두리",
+    "en-US": "· Your year in temperature: a line through each photo's temperature in the year view and the year share, with the hottest and coldest days\n· Pick the evening reminder time (auto, 6, 8 or 9 pm), plus an optional last call before midnight\n· Lucky days get a gold border on the small widget",
+    "ja-JP": "· 今年の気温: 年の一覧と今年のロール共有画像に、写真ごとの気温をつなぐ線、いちばん暑かった日・寒かった日\n· 夕方のお知らせの時刻を選べます(自動・18・20・21時)、0時前にもう一度(初期はオフ)\n· 小さなウィジェットでラッキーカットの日は金色の枠"
+  },
+  "0.6.6": {
+    "ko-KR": "· 앱 아이콘을 길게 누르면 '오늘의 한 장'·'내 롤'·'필름 도감'으로 바로 가요\n· 위젯 고르는 화면에서 위젯 이름이 휴대폰 언어로 나와요",
+    "en-US": "· Long-press the app icon to jump straight to today's photo, your roll or the film book\n· Widget names in the widget picker follow your phone's language",
+    "ja-JP": "· アプリのアイコンを長押しすると「今日の一枚」「マイロール」「フィルム図鑑」へすぐに\n· ウィジェット選択画面のウィジェット名が端末の言語で表示されます"
+  },
+  "0.7.0": {
+    "ko-KR": "· 새 필름 Blue Hour: 맑은 날 해 진 뒤 푸른 무렵, 뷰파인더에 푸른 빛 안내, 내일 예보에 '해 진 뒤'\n· 갤러리에도 저장(설정, 기본 끔): 사진 앱의 ROLLCAM 앨범에도 남아 갤러리 백업과 함께 지켜져요\n· 셀프 타이머 3초·10초, 카메라에서 바로 격자\n· 업데이트 뒤 한 번, 새로 생긴 것 카드",
+    "en-US": "· New film Blue Hour: the clear blue dusk after sunset, with a blue-light heads-up in the viewfinder and 'after sunset' in tomorrow's forecast\n· Save to gallery too (Settings, off by default): prints also land in a ROLLCAM album, backed up with your gallery\n· Self-timer (3 or 10 s) and a grid button right on the camera\n· A one-time card on what's new after the update",
+    "ja-JP": "· 新フィルム Blue Hour: 晴れた日の日没後の青い時間、ファインダーに青い光の案内、明日の予報に「日没後」\n· ギャラリーにも保存(設定、初期はオフ): 写真アプリの ROLLCAM アルバムにも残り、ギャラリーと一緒にバックアップ\n· セルフタイマー3秒・10秒、カメラからすぐにグリッド\n· アップデート後に一度、新しくなったことのカード"
+  },
+  "0.7.1": {
+    "ko-KR": "· 새 필름 Postcard: 평소 찍던 도시에서 150km 넘게 떠난 날 낮(도감 18종)\n· 아침에 현상(설정): 필름 이름은 바로, 사진은 다음 날 아침 7시\n· 수평계: 격자를 켜면 가운데 수평선, 맞으면 주황\n· 뷰파인더에 도감에 없는 필름의 하늘 안내\n· 홈 위젯: 아직 안 찍은 날 몇 해 전 같은 날 사진, 작은 위젯은 이번 달 롤로\n· 사진 보기 '같은 날', 저녁 알림에 1년 전 오늘\n· 사진이 많은 해의 기온 선을 7일 평균으로",
+    "en-US": "· New film Postcard: by day, 150 km+ from where you usually shoot (18 films)\n· Developed by morning (Settings): film name now, photo at 7 next morning\n· Level: with the grid on, the middle line turns orange when level\n· The viewfinder flags a sky your film book is missing\n· Home widget: an earlier year's print on this date until you shoot; small widget opens this month\n· 'This date in' on photos, a year ago in the evening reminder\n· Calmer temperature line for busy years",
+    "ja-JP": "· 新フィルム Postcard: いつも撮る街から150km以上離れた日の昼(図鑑18種)\n· 朝に現像(設定): フィルム名はすぐ、写真は翌朝7時\n· 水平器: グリッドをオンにすると中央の線、水平でオレンジ\n· ファインダーで図鑑にないフィルムの空をお知らせ\n· ホームウィジェット: まだ撮っていない日に何年か前の同じ日の写真、小さなウィジェットは今月のロールへ\n· 写真の「同じ日」、夕方のお知らせに1年前の今日\n· 写真の多い年の気温の線を7日平均で"
+  }
+}
